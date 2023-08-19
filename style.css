@@ -109,7 +109,7 @@ button:focus {
   background: rgb(13, 206, 87);
 }  
 
-
+  
 /* Media Query: Large Smartphone (Vertical) */
 @media screen and (max-width: 600px) {
   .calculator {
